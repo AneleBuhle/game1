@@ -1,7 +1,7 @@
 # game1
 rock, paper, scissors game
 
-_Presenting my first Python Programs which covers most of the P ython Fundermentals..
+_Presenting my first Python Programs which covers most of the Python Fundermentals..
 
 This game focuses mainly on Decision-Making and Control Structures.
 Using the "random" module, the computer will randomly select an option from the list of valid choices
